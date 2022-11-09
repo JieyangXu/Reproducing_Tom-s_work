@@ -1,0 +1,13 @@
+SPARQLWrapper
+tqdm
+numpy
+pandas
+tabulate
+bs4
+openpyxl
+matplotlib
+scipy
+geopandas
+geomet
+seaborn
+imageio
